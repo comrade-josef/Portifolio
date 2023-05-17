@@ -1,0 +1,15 @@
+<meta charset="utf-8">
+<html>
+<head>
+<title>Musicas de qualidade</title>
+</head>
+<body>
+
+<hl>Sabaton</hl>
+<p>History of war</p>
+
+<li><font color="black">Gott mit uns</font></li>
+<li><font color="black">Smoking Snakes</font></li>
+<li><font color="black">Rocker´s drift</font></li>
+<li><font color="black">Aces in exile</font></li>
+<li><font color="black">Metal machine</font></li>
