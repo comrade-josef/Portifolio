@@ -25,7 +25,7 @@ nav{
 }
 
 .logo{
-    color: lightgreen;
+    color: #fff;
     font-size: 35px;
     cursor: pointer;
     letter-spacing: 1px;
@@ -41,7 +41,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: #fff;
+    color: lightgreen;
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
