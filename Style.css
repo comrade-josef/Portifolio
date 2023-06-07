@@ -221,7 +221,7 @@ Background-color white:
 .Caixa1{
     display: flex;
     justify-content: center;
-    align-items: right;
+    align-items: 10px right;
     min-height: 400px;
     flex-wrap: wrap;
 }
