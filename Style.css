@@ -23,7 +23,7 @@ nav{
     padding-left: 8%;
     padding-right: 8%;
 }
-<!---Letreitro superior---!>
+<!---Letreitro superior-->
 .logo{
     color: #fff;
     font-size: 35px;
@@ -41,7 +41,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: lightgreen;
+    color: #fff;
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
@@ -53,7 +53,7 @@ nav ul li a:hover{
 }
 
 .btn{
-    background-color: #fff;
+    background-color: black;
     color: #fff;
     text-decoration: none;
     border: 2px solid transparent;
