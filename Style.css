@@ -25,7 +25,7 @@ nav{
 }
 <!---Letreitro superior-->
 .logo{
-    color: #fff;
+    color: #ffff;
     font-size: 35px;
     cursor: pointer;
     letter-spacing: 1px;
@@ -55,7 +55,7 @@ nav ul li a:hover{
 
 .btn{
     background-color: #fff;
-    color: black;
+    color: lightblue;
     text-decoration: none;
     border: 2px solid transparent;
     font-weight: bold;
