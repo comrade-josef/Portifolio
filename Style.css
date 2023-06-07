@@ -218,6 +218,38 @@ Background-color white:
     flex-wrap: wrap;
 }
 
+.Caixa1{
+    display: flex;
+    justify-content: center;
+    align-items: right;
+    min-height: 400px;
+    flex-wrap: wrap;
+}
+
+.Caixa2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    flex-wrap: wrap;
+}
+
+.Caixa3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    flex-wrap: wrap;
+}
+
+.Caixa4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    flex-wrap: wrap;
+}
+
 .Card{
     background: #191919;
     height: 365px;
