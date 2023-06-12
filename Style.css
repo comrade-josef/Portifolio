@@ -255,7 +255,7 @@ Background-color white:
     flex-wrap: wrap;
 }
 
-.Card{
+.Card1{
     background: lightgray;
     height: 365px;
     width: 335px;
@@ -265,6 +265,35 @@ Background-color white:
     overflow: hidden;
     text-align:  center;
     
+    .Card2{
+    background: lightgray;
+    height: 365px;
+    width: 335px;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align:  center;
+        
+        .Card3{
+    background: lightgray;
+    height: 365px;
+    width: 335px;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align:  center;
+            
+            .Card4{
+    background: lightgray;
+    height: 365px;
+    width: 335px;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align:  center;
 }
 
 .Card i{
